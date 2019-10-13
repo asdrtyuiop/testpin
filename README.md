@@ -1,1 +1,4 @@
-# testpin
+# core
+
+The core library.
+
